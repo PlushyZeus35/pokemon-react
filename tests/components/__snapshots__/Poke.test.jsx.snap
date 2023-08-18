@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests of <Poke /> component Should render pokemon after receiving data from hook 1`] = `
+<div>
+  <div
+    class="card mb-3"
+  >
+    <div
+      class="row g-0"
+    >
+      <div
+        class="col-md-3 d-flex justify-content-center"
+      >
+        <img
+          alt="charizard"
+          class="img-fluid rounded-start"
+          src="https://testurlimg.com/"
+        />
+      </div>
+      <div
+        class="col-md-9"
+      >
+        <div
+          class="card-body d-flex flex-column justify-content-center"
+        >
+          <h5
+            class="card-title text-center text-capitalize"
+          >
+            charizard
+          </h5>
+          <div
+            class="d-flex justify-content-center gap-2 my-2"
+          >
+            <img
+              alt="water"
+              class="typeImg"
+              src="/icons/water.png"
+            />
+          </div>
+          <button
+            class="btn btn-primary"
+          >
+            Ver más
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

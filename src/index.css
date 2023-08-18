@@ -1,0 +1,13 @@
+#mainContainer{
+    background-color: #d3d3d3;
+    min-height: 100vh;
+}
+
+#bigSpinner{
+    width: 3rem; 
+    height: 3rem;
+}
+
+.typeImg{
+    width: 23px;
+}
